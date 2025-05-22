@@ -1,9 +1,6 @@
 AI-agent-wk
 AI-agent-wk 是一个基于 Java 构建的智能体（Agent）系统，旨在为心理咨询等场景提供具备自主规划能力的 AI 解决方案。该项目结合了大语言模型（LLM）与检索增强生成（RAG）技术，支持多轮对话、知识检索和任务规划等功能。
-CSDN
-+1
-AI Tutor
-+1
+
 
 🧠 项目亮点
 心理咨询场景优化：专为心理咨询应用设计，支持情绪识别与多轮对话。
@@ -15,10 +12,10 @@ RAG 支持：结合外部知识库，提升回答的准确性与上下文相关�
 模块化架构：基于 Java 构建，易于扩展与部署。
 
 容器化部署：提供 Dockerfile，支持快速部署。
-CSDN
+
 
 📁 项目结构
-bash
+
 复制
 编辑
 
@@ -42,7 +39,7 @@ THE DECODER
 本地运行
 克隆项目：
 
-bash
+
 复制
 编辑
 git clone https://github.com/Wangkang0512/AI-agent-wk.git
