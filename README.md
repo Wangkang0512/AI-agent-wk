@@ -16,8 +16,6 @@ RAG 支持：结合外部知识库，提升回答的准确性与上下文相关�
 
 📁 项目结构
 
-复制
-编辑
 
 AI-agent-wk/
 ├── src/                  # Java 源代码
@@ -40,28 +38,20 @@ THE DECODER
 克隆项目：
 
 
-复制
-编辑
 git clone https://github.com/Wangkang0512/AI-agent-wk.git
 cd AI-agent-wk
 构建项目：
 
-bash
-复制
-编辑
+
 ./mvnw clean package
 运行应用：
 
-bash
-复制
-编辑
+
 java -jar target/ai-agent-wk-*.jar
 使用 Docker 部署
 构建镜像：
 
-bash
-复制
-编辑
+
 docker build -t ai-agent-wk .
 运行容器：
 
@@ -80,13 +70,4 @@ docker run -p 8080:8080 ai-agent-wk
 提出功能建议或报告 Bug
 
 优化文档或添加示例
-
-📄 许可证
-本项目采用 MIT License 开源许可协议。
-维基百科
-+5
-GitHub
-+5
-CSDN
-+5
 
